@@ -1,0 +1,25 @@
+Assignment:
+
+Using your own research data or any data of your choice.
+
+- Create a Streamlit app that showcases your research and your data.
+
+- This is a basic example: Streamlit ECharts Demo · Streamlit
+
+Links to an external site.of the bare the minimum that would be expected.
+
+Outputs:
+
+1. Live Streamlit app link hosted on Streamlit, so anyone can access it on the internet
+
+Minimum requirements:
+
+    Graphs
+    Tables
+    A bio section about yourself and your research
+
+2. GitHub URL of the repo
+
+3. Repo must contain a README.md file that explains the Streamlit code.
+
+Note: A local version of streamlit will not be accepted, i.e. do not send "localhost" link

@@ -1,0 +1,28 @@
+- echo $((5+5)) # echo is command to show the result (print).
+10 # the output
+
+- pwd # to show us the present work directory
+
+- ls # to show us all the files in the present work directory
+
+- ls -lh # list contents of current directory, -lh are extra parameters to give details for each file and make it human readable
+
+- cd # use the command cd or change directory to move to that directory
+
+- mkdir # to create a new folder
+
+- touch # To create file.txt for exemple
+
+- cp file.txt file1.txt # To make another copy of the file.txt and the another one is file1.txt
+
+- mv notes.txt notes1.txt # To rename the file for exemple here notes.txt to notes1.txt
+
+- mv notes2.txt ../ # To cut or move the file notes2.txt to be in the previous folder of the present work directory.
+
+- cat iris.csv # Just to check inside of the Data iris.csv
+
+- nano notes2.txt # To edit file.
+
+- find -name "day*" # To find file with word 'day' in the pwd or file name with 'day' for exemple
+
+- grep -n "virginica" *.csv # If we want to see all rows with virginica in the file .csv
