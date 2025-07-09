@@ -22,7 +22,7 @@ Upon completion, participants receive a certificate and are eligible to apply fo
 
 **WEEK 1: Computer skills**
 
-In just one intensive week, the DARA (Development in Africa with Radio Astronomy) community successfully completed a foundational training in computational skills, equipping participants with essential tools for data-driven astronomy research. This immersive program blended theory with hands-on practice, culminating in daily quizzes to reinforce learning.
+In just one intensive week, the DARA (Development in Africa with Radio Astronomy) community successfully completed a foundational training in computational skills, equipping participants with essential tools for data-driven astronomy research. This immersive program blended theory with hands-on practice, culminating in daily quizzes to reinforce learning and Final Project to complete to get certificate for the week 1.
 
   **Day 1** :	Python Basics	(Syntax, data structures, functions)
   
