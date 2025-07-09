@@ -34,7 +34,7 @@ In just one intensive week, the DARA (Development in Africa with Radio Astronomy
   
   **Day 5**	: Linux Command Line (Bash scripting, file system navigation)
 
-## Why This Matters
+**Why This Matters**
 This training is part of DARA’s mission to:
 
 🌍 Empower African researchers with cutting-edge data science skills.
