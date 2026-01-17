@@ -1,0 +1,6 @@
+About the Data:
+It's too size , so i didn't put them here
+
+The Notebook Analysis is used for analyzing the collected observations.
+
+Results Folder : Contains the processed images that serve as the results.

@@ -1,0 +1,7 @@
+Observing Folder:
+This folder contains the data collected during the observation
+
+Analysis Folder:
+This folder contains the data and the Notebook Analysis used to analyze the collected observations.
+
+Results Folder : Contains the processed images that serve as the results.

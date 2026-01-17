@@ -1,0 +1,6 @@
+About the Data:
+There is a data but because of size , i didn't put them here
+
+During the analysis, we use software tools to combine different image filters in order to produce the final Ring Nebula image.
+
+Results Folder : Contains the processed images that serve as the results.

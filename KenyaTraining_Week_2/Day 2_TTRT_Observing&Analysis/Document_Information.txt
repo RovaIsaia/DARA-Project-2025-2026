@@ -1,0 +1,6 @@
+About the Data :
+There is a data but i didn't put them here
+
+The Notebook_Analysis is used for analyzing the collected observations in order to determine the HI line distribution — whether it is moving toward us, moving around the galactic center, or moving away from us.
+
+Results Folder : Contains the processed images that serve as the results.
