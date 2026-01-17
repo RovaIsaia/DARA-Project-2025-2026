@@ -58,7 +58,7 @@ In the **second week**, we focused on data analysis using the observations colle
   
   **RFI Observations**	: Which we did the Identification of strong radio frequency interference (RFI) signals around the TBI–Ileret region that may affect astronomical signal detection.
 
-# SouthAfricaTraining_Week_4: Radio Astronomy Training
+# SouthAfricaTraining_Week_3: Radio Astronomy Training
 
 **Date : September 15 - 26, 2025**
 
