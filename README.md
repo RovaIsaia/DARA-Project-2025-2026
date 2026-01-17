@@ -14,13 +14,15 @@ Fully funded by the University of Leeds: no fees, travel, or accommodation costs
 
 -Radio astronomy at Hartebeesthoek Observatory (South Africa).
 
+-Data Reduction (Univesity of Antananarivo)
+
 Concludes with the DARA Annual Network Meeting , connecting trainees with researchers and space industry professionals.
 
 ### Outcomes
 
 Upon completion, participants receive a certificate and are eligible to apply for advanced academic programs, or contribute to the growth of high-tech industries in Africa.
 
-**AntananarivoTraining_Week_1: Computer Training**
+# AntananarivoTraining_Week_1: Computer Training
 
 **Date : June 30 - July 04, 2025**
 
@@ -36,7 +38,7 @@ In just one intensive week, the DARA (Development in Africa with Radio Astronomy
   
   **Day 5**	: Linux Command Line (Bash scripting, file system navigation)
 
-**KenyaTraining_Week_2: Optical Astronomy Training**
+# KenyaTraining_Week_2: Optical Astronomy Training
 
 **Date : July 14 - 25, 2025**
 
@@ -56,7 +58,7 @@ In the **second week**, we focused on data analysis using the observations colle
   
   **RFI Observations**	: Which we did the Identification of strong radio frequency interference (RFI) signals around the TBI–Ileret region that may affect astronomical signal detection.
 
-**SouthAfricaTraining_Week_4: Radio Astronomy Training**
+# SouthAfricaTraining_Week_4: Radio Astronomy Training
 
 **Date : September 15 - 26, 2025**
 
