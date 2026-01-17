@@ -66,8 +66,8 @@ This two-week intensive Radio Astronomy Training was conducted in South Africa a
 
 The program included extensive classroom lectures and hands-on training with radio telescope instrumentation. We also received introductory training in Python programming and conducted all computational work within a Linux environment. This training provided a strong foundation in both theoretical and practical aspects of radio astronomy.
   
-**Why This Matters**
-This training is part of DARA’s mission to:
+### Why This Matters
+These training programs are part of DARA’s mission to:
 
 -Empower African researchers with cutting-edge data science skills.
 
