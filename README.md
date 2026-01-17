@@ -50,13 +50,13 @@ In the **second week**, we focused on data analysis using the observations colle
 
 ## Type of Training : 
 
-  **TTRT Observing** : Which we did the determination of the HI line distribution in the Milky Way Galaxy.
+  **- TTRT Observing** : Which we did the determination of the HI line distribution in the Milky Way Galaxy.
   
-  **20 Cm Observing**	: Which we did the work for Imaging of the Ring Nebula using different optical filters to obtain a true-color image.
+  **- 20 Cm Observing**	: Which we did the work for Imaging of the Ring Nebula using different optical filters to obtain a true-color image.
   
-  **40 Cm Observing**	: which we did the photometric analysis of the variable star BV Aqr to measure its light curve and determine its period using DARA 40cm telescope data.
+  **- 40 Cm Observing**	: which we did the photometric analysis of the variable star BV Aqr to measure its light curve and determine its period using DARA 40cm telescope data.
   
-  **RFI Observations**	: Which we did the Identification of strong radio frequency interference (RFI) signals around the TBI–Ileret region that may affect astronomical signal detection.
+  **- RFI Observations**	: Which we did the Identification of strong radio frequency interference (RFI) signals around the TBI–Ileret region that may affect astronomical signal detection.
 
 # SouthAfricaTraining_Week_3: Radio Astronomy Training
 
