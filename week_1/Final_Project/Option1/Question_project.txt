@@ -1,1 +1,0 @@
-The objectif is to analyse the Dataset 'movie_dataset.csv' and answer all the questions in the Project.
