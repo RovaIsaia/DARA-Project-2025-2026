@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['../css2025_Day2/pyfile0.py', '../css2025_Day2/pyfile1.py', '../css2025_Day2/pyfile2.py', '../css2025_Day2/pyfile3.py', '../css2025_Day2/pyfile4.py', '../css2025_Day2/pyfile5.py', '../css2025_Day2/pyfile6.py', '../css2025_Day2/pyfile7.py', '../css2025_Day2/pyfile8.py', 'quiz2.py', 'quiz3.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
