@@ -1,6 +1,6 @@
 ## Program Overview
 
-The **Development in Africa with Radio Astronomy** (DARA) project aims to empower African students and professionals by providing foundational training in astrophysics, radio astronomy, Data reduction and Data Analysis .**DARA** currently runs a basic training programme in radio astronomy in **Ghana**, **Kenya**, **Zambia**, **Namibia**, **Botswana**, **Madagascar**, **Mozambique**, and **South Africa** .
+The **Development in Africa with Radio Astronomy** (DARA) project aims to empower African students and professionals by providing foundational training in astrophysics, radio astronomy, Data reduction and Data Analysis.**DARA** currently runs a basic training programme in radio astronomy in **Ghana**, **Kenya**, **Zambia**, **Namibia**, **Botswana**, **Madagascar**, **Mozambique**, and **South Africa** .
 
 ### Training Programme Highlights
 
