@@ -1,22 +1,22 @@
 ## Program Overview
 
-The **Development in Africa with Radio Astronomy** (DARA) project aims to empower African students and professionals by providing foundational training in astrophysics, radio astronomy, and related technical skills . With Africa emerging as a key region for global astronomy — highlighted by major projects like the **Square Kilometre Array** (SKA) and the **South African Large Telescope** (SALT) — **DARA** is building local expertise across eight African partner countries: **Ghana**, **Kenya**, **Zambia**, **Namibia**, **Botswana**, **Madagascar**, **Mozambique**, and **Mauritius** .
+The **Development in Africa with Radio Astronomy** (DARA) project aims to empower African students and professionals by providing foundational training in astrophysics, radio astronomy, and Data reduction and Data Analysis .**DARA** currently runs a basic training programme in radio astronomy in **Ghana**, **Kenya**, **Zambia**, **Namibia**, **Botswana**, **Madagascar**, **Mozambique**, and **South Africa** .
 
 ### Training Programme Highlights
 
-Fully funded by the University of Leeds: no fees, travel, or accommodation costs for participants.
+Fully funded : no fees, travel, or accommodation costs for participants.
 
 ### Includes hands-on training in:
 
--Technical computing : Linux, Python, data analysis & reduction.
+-Technical computing : Linux, Python, data analysis (Univesity of Antananarivo).
 
 -Optical astronomy at Turkana Basin Institute (Kenya).
 
 -Radio astronomy at Hartebeesthoek Observatory (South Africa).
 
--Data Reduction (Univesity of Antananarivo)
+-Data Reduction and Data Analysis (Univesity of Antananarivo).
 
-Concludes with the DARA Annual Network Meeting , connecting trainees with researchers and space industry professionals.
+-Concludes with the DARA Annual Network Meeting , connecting trainees with researchers and space industry professionals (South Africa).
 
 ### Outcomes
 
