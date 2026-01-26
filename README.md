@@ -65,6 +65,83 @@ In the **second week**, we focused on data analysis using the observations colle
 This two-week intensive Radio Astronomy Training was conducted in South Africa at the SARAO Hartebeesthoek Radio Astronomy Observatory (HartRAO).
 
 The program included extensive classroom lectures and hands-on training with radio telescope instrumentation. We also received introductory training in Python programming and conducted all computational work within a Linux environment. This training provided a strong foundation in both theoretical and practical aspects of radio astronomy.
+
+# DataReduction_Week_4: Data Reduction
+
+**Date : January 12 - 23, 2026**
+
+This comprehensive data reduction training focused on processing Very Long Baseline Interferometry **(VLBI)** data using the Common Astronomy Software Applications **(CASA)** package and Python programming. The program progressed from basic calibration to advanced imaging techniques across three continuum datasets and one spectral line dataset. This training take place at the University of Antananarivo
+
+
+## Type of Training : 
+
+  ### - Part 1: Basic Calibration : 
+  
+  **Objective**: Introduction to EVN (European VLBI Network) data calibration using CASA
+
+  **Key Skills Learned**: 
+  
+        - Data preparation: Converting FITS-IDI files to measurement sets
+
+        - A priori calibration: System temperature (Tsys) and gain curve application
+
+        - Data inspection and flagging: Identifying and removing bad data
+
+        - Fringe fitting: Correcting instrumental and multi-band delays
+
+        - Bandpass calibration**: Addressing frequency-dependent amplitude variations
+  
+  ### - Part 2: Calibration & Imaging of J1849+3024	: 
+
+  **Objective**: Refine calibration and image a target source through scripting
+
+  **Key Skills Learned**:
+
+        - Script-based calibration workflow in CASA
+
+        - Imaging fundamentals: Parameter determination (cell size, image size)
+
+        - Interactive cleaning with masks using tclean
+
+        - Phase referencing: Transferring calibrator solutions to target
+
+        - Self-calibration: Phase and amplitude corrections on target source
+  
+  ### - Part 3: Calibration & Imaging of 3C345	: 
+
+  **Objective**: Independent script creation and advanced imaging techniques
+
+  **Key Skills Learned**:
+
+        - Creating calibration scripts from scratch
+
+        - Handling uncalibrated data segments
+
+        - Weighting optimization using statwt
+
+        - Imaging with different weighting schemes (natural, uniform, robust)
+
+        - Comparing resolution vs. sensitivity trade-offs
+
+  ### - Spectral_lines: NGC660 Hydrogen Absorption	: 
+
+  **Objective**: Spectral line data reduction and analysis
+
+  **Key Skills Learned**:
+
+         -Continuum subtraction using uvcontsub
+
+        - Cube imaging for spectral lines
+
+        - Scientific analysis: Position-velocity diagrams, moment maps
+
+        - Optical depth calculations
+
+        - Spectrum extraction at different spatial locations
+
+**Note**: This training provided hands-on experience with professional radio astronomy data reduction tools, enabling participants to process VLBI data from raw observations to scientific results.
+
+**Link for the Website** : https://www.jb.man.ac.uk/DARA/unit4/unit4.html
   
 ### Why This Matters
 These training programs are part of DARA’s mission to:
