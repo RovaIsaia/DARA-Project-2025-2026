@@ -22,6 +22,8 @@ Fully funded : no fees, travel, or accommodation costs for participants.
 
 Upon completion, participants receive a certificate and are eligible to apply for advanced academic programs, or contribute to the growth of high-tech industries in Africa.
 
+## Repository Structure:
+
 # AntananarivoTraining_Week_1: Computer Training
 
 **Date : June 30 - July 04, 2025**
