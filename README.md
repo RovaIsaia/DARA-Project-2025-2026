@@ -144,6 +144,16 @@ This comprehensive data reduction training focused on processing Very Long Basel
 **Note**: This training provided hands-on experience with professional radio astronomy data reduction tools, enabling participants to process VLBI data from raw observations to scientific results.
 
 **Link for the Website** : https://www.jb.man.ac.uk/DARA/unit4/unit4.html
+
+# DARA Annual Network Meeting (South Africa)
+
+**Date : March 1 - 6, 2026**
+
+The **DARA Annual Network Meeting** brings together trainees, professors, researchers, and professionals from the astronomy and space science community across Africa.
+
+During this meeting, participants present their work, share research experiences, and discuss new opportunities in astronomy, data science, and the space industry. The event also includes talks from experts, discussions on entrepreneurship, and networking sessions that help build collaborations between students and researchers.
+
+This meeting is an important part of the DARA programme because it strengthens the scientific network and encourages future research and innovation in Africa.
   
 ### Why This Matters
 These training programs are part of DARA’s mission to:
